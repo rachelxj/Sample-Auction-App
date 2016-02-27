@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name">AuctionApp</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="no_open_auctions">No Auction available for bidding, check later.</string>
+    <string name="hint_title">Title</string>
+    <string name="hint_description">Description</string>
+    <string name="hint_base_price">Start Price</string>
+    <string name="hint_bid_starts">Auction Starts At:</string>
+    <string name="hint_date">Date</string>
+    <string name="hint_time">Time</string>
+    <string name="bid_closes_in">Auction Closes In (hrs): </string>
+
+    <string name="auction_item_created">Auction item created.</string>
+    <string name="bidding_starts_at">Starts At: %s</string>
+    <string name="bidding_ends_on">Ends At: %s</string>
+    <string name="auction_ends_in">Bidding Closes In: %s</string>
+    <string name="auction_ended">Auction Ended!</string>
+    <string name="highest_bid">Highest Bid Amount</string>
+    <string name="opening">Opening</string>
+    <string name="coming_soon">Coming Soon</string>
+    <string name="btn_create_auction">Create Auction</string>
+    <string name="external_storage_not_available">External storage is not mounted.</string>
+    <string name="select_auction_start_date">Please Pick Auction Start Date</string>
+    <string name="select_auction_end_date">Please Pick Auction End Date</string>
+    <string name="select_auction_end_time_wrong">End Time can not be earlier than Start Time</string>
+    <string name="select_auction_end_time_wrong2">End Time can not be earlier than Now</string>
+
+    <string name="enter_auction_name">Please enter auction item name</string>
+    <string name="enter_auction_description">Please enter description for item</string>
+    <string name="enter_base_price">Please enter base amount</string>
+
+    <string name="no_auctions_by_you">You haven\'t submitted Auctions</string>
+
+    <string name="title_activity_home">Auction Home</string>
+    <string name="title_my_auction">My Auctions</string>
+    <string name="bid_by">User: %s</string>
+    <string name="bid_amount">Bid Amount: %.2f</string>
+    <string name="no_won_auctions">You haven\'t won any Auctions yet.</string>
+
+    <string name="title_activity_create_auction">Create Auction</string>
+    <string name="title_activity_auction_item">Auction Detail</string>
+    <string name="title_activity_auction_bids">Bids For: %s</string>
+    <string name="title_won_auction">Won Auctions</string>
+    <string name="no_bid_for">No Bids For: %s</string>
+    <string name="be_a_winner">I wish I\'m the winner!</string>
+    <string name="action_exit">Exit</string>
+    <string name="remember_me">Remember Me</string>
+    <string name="your_bid_amount">Your Bid Amount: %.2f</string>
+    <string name="your_bid">Your Bid</string>
+    <string name="hint_bid_amount">Enter your bid amount</string>
+    <string name="btn_submit">Submit</string>
+    <string name="no_bids">No bids yet!</string>
+    <string name="cant_bid_less">Please bid higher than the Highest Bid!</string>
+    <string name="bid_submitted">Bid submitted!</string>
+    <string name="bid_submit_error">Unable to save your Bid, try again.</string>
+    <string name="bidding_for">Bidding For: %s</string>
+    <string name="more_than_base_amount">You must bid more than Start Price!</string>
+    <string name="bid_notes">Bid Notes: </string>
+    <string name="hint_bid_notes">Additional notes (optional)</string>
+    <string name="winner">Winner: \n%1$s\n%2$.2f</string>
+    <string name="congratulations">Congratulations! You won it!</string>
+</resources>
